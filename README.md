@@ -1,6 +1,6 @@
 ## CSS命名规范(规则)常用的CSS命名规则
 ---------------------------------------
->####class命名
+>#### class命名
 ---------------------------------------
 >>头：header　　
 内容：content/container　　
@@ -39,13 +39,13 @@
 投票：vote　　
 合作伙伴：partner
 ---------------------------------------
->####注释的写法:　　
->/* Header */　　
+> #### 注释的写法:　　
+> /* Header */　　
 内容区　　
 /* End Header */
 ---------------------------------------
->##Id的命名:　　
->>+页面结构　　
+> ## Id的命名:　　
+>> + 页面结构　　
 容器: container　　
 页头：header　　
 内容：content/container　　
@@ -56,7 +56,7 @@
 栏目：column　　
 页面外围控制整体佈局宽度：wrapper　　
 左右中：left right center
->>+导航　　
+>> + 导航　　
 导航：nav　　
 主导航：mainnav　　
 子导航：subnav　　
@@ -68,7 +68,7 @@
 子菜单：submenu　　
 标题: title　　
 摘要: summary
->>+功能　　
+>> + 功能　　
 标志：logo　　
 广告：banner　　
 登陆：login　　
@@ -98,19 +98,19 @@
 友情链接：link　　
 版权：copyright
 ---------------------------------------
->####注意事项::　　
+> #### 注意事项::　　
 >>1.一律小写;　　
 >>2.尽量用英文;　　
 >>3.不加中槓和下划线;　　
 >>4.尽量不缩写，除非一看就明白的单词。
->####CSS样式表文件命名　　
->>*主要的 master.css　　
->>*模块 module.css　　
->>*基本共用 base.css　　
->>*布局、版面 layout.css　　
->>*主题 themes.css　　
->>*专栏 columns.css　　
->>*文字 font.css　　
->>*表单 forms.css　　
->>*补丁 mend.css　　
->>*打印 print.css
+> #### CSS样式表文件命名　　
+>> * 主要的 master.css　　
+>> * 模块 module.css　　
+>> * 基本共用 base.css　　
+>> * 布局、版面 layout.css　　
+>> * 主题 themes.css　　
+>> * 专栏 columns.css　　
+>> * 文字 font.css　　
+>> * 表单 forms.css　　
+>> * 补丁 mend.css　　
+>> * 打印 print.css
